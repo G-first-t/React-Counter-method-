@@ -1,0 +1,20 @@
+.container{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.display{
+    font-size: 10em;
+}
+.button{
+    background-color: aquamarine;
+    height: 100px;
+    width:200px;
+    margin-left:20px;
+    margin-right:10px;
+    font-size: 30px;
+    margin-top:0px;
+    margin-bottom: 30px;
+    border:none;
+    border-radius: 20px;
+    cursor: pointer;
+}
